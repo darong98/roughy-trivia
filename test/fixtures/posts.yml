@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  writer_id: 
+  title: MyString
+  text: MyText
+  count: 1
+
+two:
+  writer_id: 
+  title: MyString
+  text: MyText
+  count: 1
